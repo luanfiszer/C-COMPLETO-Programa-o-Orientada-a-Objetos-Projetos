@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruturasSequenciais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d1e408675fe45fcf79d8f19565b0a6c770dab1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5bebac185a623d8a9382926d8e4bf34fbfa1cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruturasSequenciais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruturasSequenciais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

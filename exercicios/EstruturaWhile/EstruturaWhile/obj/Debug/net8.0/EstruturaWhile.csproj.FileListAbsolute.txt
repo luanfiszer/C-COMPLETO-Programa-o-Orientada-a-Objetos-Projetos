@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.exe
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.deps.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.runtimeconfig.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.sourcelink.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\refint\EstruturaWhile.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\EstruturaWhile\EstruturaWhile\obj\Debug\net8.0\ref\EstruturaWhile.dll
