@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\bin\Debug\net8.0\RetanguloOperacoes.exe
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\bin\Debug\net8.0\RetanguloOperacoes.deps.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\bin\Debug\net8.0\RetanguloOperacoes.runtimeconfig.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\bin\Debug\net8.0\RetanguloOperacoes.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\bin\Debug\net8.0\RetanguloOperacoes.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.sourcelink.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\refint\RetanguloOperacoes.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\RetanguloOperacoes.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\RetanguloOperacoes\RetanguloOperacoes\obj\Debug\net8.0\ref\RetanguloOperacoes.dll
