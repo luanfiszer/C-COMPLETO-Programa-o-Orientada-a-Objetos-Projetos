@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.exe
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.deps.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.sourcelink.json
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\refint\ConversorDeMoedas.dll
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.pdb
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\Marcelo\Documents\estudos programação\C# COMPLETO Programação Orientada a Objetos + Projetos\exercicios\4\CobersorDeMoedas\CobersorDeMoedas\obj\Debug\net8.0\ref\ConversorDeMoedas.dll

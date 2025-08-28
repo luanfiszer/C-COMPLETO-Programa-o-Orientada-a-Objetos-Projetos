@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\4\\CobersorDeMoedas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10A063D4-E9CD-42A4-8DB4-3C5C0B5F1719}|CobersorDeMoedas\\CobersorDeMoedas.csproj|c:\\users\\marcelo\\documents\\estudos programa\u00E7\u00E3o\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\exercicios\\4\\cobersordemoedas\\cobersordemoedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A063D4-E9CD-42A4-8DB4-3C5C0B5F1719}|CobersorDeMoedas\\CobersorDeMoedas.csproj|solutionrelative:cobersordemoedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\4\\CobersorDeMoedas\\CobersorDeMoedas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CobersorDeMoedas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A063D4-E9CD-42A4-8DB4-3C5C0B5F1719}|CobersorDeMoedas\\ConversorDeMoedas.csproj|c:\\users\\marcelo\\documents\\estudos programa\u00E7\u00E3o\\c# completo programa\u00E7\u00E3o orientada a objetos \u002B projetos\\exercicios\\4\\cobersordemoedas\\cobersordemoedas\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A063D4-E9CD-42A4-8DB4-3C5C0B5F1719}|CobersorDeMoedas\\ConversorDeMoedas.csproj|solutionrelative:cobersordemoedas\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\4\\CobersorDeMoedas\\CobersorDeMoedas\\ConversorDeMoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CobersorDeMoedas\\ConversorDeMoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "CobersorDeMoedas\\ConversorDeMoeda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:04:18.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T01:04:18.087Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "CobersorDeMoedas\\Program.cs",
               "ToolTip": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\4\\CobersorDeMoedas\\CobersorDeMoedas\\Program.cs",
               "RelativeToolTip": "CobersorDeMoedas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T00:51:26.052Z",
               "EditorCaption": ""
