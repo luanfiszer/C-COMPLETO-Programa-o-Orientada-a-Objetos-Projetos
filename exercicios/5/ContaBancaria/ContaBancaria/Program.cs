@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] arg)
     {
+
+        Cliente conta;
+
         Console.Write("Entre o número da conta: ");     // get , private set
         int id = int.Parse(Console.ReadLine());
 
@@ -11,31 +14,39 @@ class Program
         string nome = Console.ReadLine();
 
         Console.Write("Haverá depósito inicial (s/n)? ");  // fazer a restrição de s/n com propeties e linkar s/n a true/false
-        bool depInicial = bool.Parse(Console.ReadLine());
+        char depInicial = char.Parse(Console.ReadLine());
 
-        Console.Write("Entre o valor de deposito inicial: $");
-        double saldo = int.Parse(Console.ReadLine());
+        double saldo = 0.0;
+        if (depInicial == 's' || depInicial == 'S')
+        {
+            Console.Write("Entre o valor de deposito inicial: $");
+            saldo = double.Parse(Console.ReadLine());
+            conta = new Cliente(id, nome, saldo);
+        }
 
-        Cliente cliente = new Cliente(id, nome, saldo);
+        else
+        {
+            conta = new Cliente(id, nome);
+        }
 
         Console.Write("Dados da conta: ");
-        Console.WriteLine(cliente);
+        Console.WriteLine(conta);
         Console.WriteLine();
 
         Console.Write("Entre um valor para depósito: $");
-        double deposito = int.Parse(Console.ReadLine());
-        cliente.Adicionar(deposito);
+        double deposito = double.Parse(Console.ReadLine());
+        conta.Deposito(deposito);
 
         Console.Write("Dados da conta atualizados: ");
-        Console.WriteLine(cliente);
+        Console.WriteLine(conta);
         Console.WriteLine();
 
         Console.Write("Entre um valor para saque: $");
         double saque = double.Parse(Console.ReadLine());
-        cliente.Sacar(saque);
+        conta.Saque(saque);
 
         Console.Write("Dados da conta atualizados: ");
-        Console.WriteLine(cliente);
+        Console.WriteLine(conta);
 
     }
 }

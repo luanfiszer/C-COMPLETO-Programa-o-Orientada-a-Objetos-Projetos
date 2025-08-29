@@ -18,28 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\5\\ContaBancaria\\ContaBancaria\\Cliente.cs",
-              "RelativeDocumentMoniker": "ContaBancaria\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\5\\ContaBancaria\\ContaBancaria\\Cliente.cs",
-              "RelativeToolTip": "ContaBancaria\\Cliente.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T21:18:48.693Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,9 +32,22 @@
               "RelativeDocumentMoniker": "ContaBancaria\\Program.cs",
               "ToolTip": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\5\\ContaBancaria\\ContaBancaria\\Program.cs",
               "RelativeToolTip": "ContaBancaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T21:17:30.651Z",
+              "WhenOpened": "2025-08-29T19:54:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\5\\ContaBancaria\\ContaBancaria\\Cliente.cs",
+              "RelativeDocumentMoniker": "ContaBancaria\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Marcelo\\Documents\\estudos programa\u00E7\u00E3o\\C# COMPLETO Programa\u00E7\u00E3o Orientada a Objetos \u002B Projetos\\exercicios\\5\\ContaBancaria\\ContaBancaria\\Cliente.cs",
+              "RelativeToolTip": "ContaBancaria\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:18:48.693Z",
               "EditorCaption": ""
             }
           ]

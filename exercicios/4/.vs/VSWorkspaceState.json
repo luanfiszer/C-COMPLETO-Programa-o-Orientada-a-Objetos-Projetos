@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConversorDeMoedas"
+    "\\ConversorDeMoedas",
+    "\\ConversorDeMoedas\\ConversorDeMoedas"
   ],
+  "SelectedNode": "\\ConversorDeMoedas\\ConversorDeMoedas.sln",
   "PreviewInSolutionExplorer": false
 }
