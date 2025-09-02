@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanb\\OneDrive\\Documentos\\estudos programa\u00E7\u00E3o\\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\\exercicios\\6\\Pensionato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29F7AF-1C30-4AC5-B87E-30BDE40614F9}|Pensionato\\Pensionato.csproj|c:\\users\\luanb\\onedrive\\documentos\\estudos programa\u00E7\u00E3o\\c-completo-programa-o-orientada-a-objetos-projetos\\exercicios\\6\\pensionato\\pensionato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29F7AF-1C30-4AC5-B87E-30BDE40614F9}|Pensionato\\Pensionato.csproj|solutionrelative:pensionato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29F7AF-1C30-4AC5-B87E-30BDE40614F9}|Pensionato\\Pensionato.csproj|c:\\users\\luanb\\onedrive\\documentos\\estudos programa\u00E7\u00E3o\\c-completo-programa-o-orientada-a-objetos-projetos\\exercicios\\6\\pensionato\\pensionato\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29F7AF-1C30-4AC5-B87E-30BDE40614F9}|Pensionato\\Pensionato.csproj|solutionrelative:pensionato\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\Users\\luanb\\OneDrive\\Documentos\\estudos programa\u00E7\u00E3o\\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\\exercicios\\6\\Pensionato\\Pensionato\\Quarto.cs",
+              "RelativeDocumentMoniker": "Pensionato\\Quarto.cs",
+              "ToolTip": "C:\\Users\\luanb\\OneDrive\\Documentos\\estudos programa\u00E7\u00E3o\\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\\exercicios\\6\\Pensionato\\Pensionato\\Quarto.cs",
+              "RelativeToolTip": "Pensionato\\Quarto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:40:49.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luanb\\OneDrive\\Documentos\\estudos programa\u00E7\u00E3o\\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\\exercicios\\6\\Pensionato\\Pensionato\\Program.cs",
+              "RelativeDocumentMoniker": "Pensionato\\Program.cs",
+              "ToolTip": "C:\\Users\\luanb\\OneDrive\\Documentos\\estudos programa\u00E7\u00E3o\\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\\exercicios\\6\\Pensionato\\Pensionato\\Program.cs",
+              "RelativeToolTip": "Pensionato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:38:44.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
