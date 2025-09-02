@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\bin\Debug\net8.0\VetoresEx2.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\bin\Debug\net8.0\VetoresEx2.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\bin\Debug\net8.0\VetoresEx2.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\bin\Debug\net8.0\VetoresEx2.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\bin\Debug\net8.0\VetoresEx2.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\refint\VetoresEx2.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\VetoresEx2.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\VetoresEx2\VetoresEx2\obj\Debug\net8.0\ref\VetoresEx2.dll
