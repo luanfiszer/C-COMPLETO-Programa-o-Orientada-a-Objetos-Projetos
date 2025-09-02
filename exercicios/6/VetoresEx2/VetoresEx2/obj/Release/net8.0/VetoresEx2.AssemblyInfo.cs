@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetoresEx2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e1124e5e264a97d4ad28af8a5adaacaf80315db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d07ad887d8017ee3cfe2ff4442681f3394245320")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetoresEx2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetoresEx2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
