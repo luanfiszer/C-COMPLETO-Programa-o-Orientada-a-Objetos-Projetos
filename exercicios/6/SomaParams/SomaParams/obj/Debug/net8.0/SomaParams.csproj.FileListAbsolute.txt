@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\bin\Debug\net8.0\SomaParams.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\bin\Debug\net8.0\SomaParams.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\bin\Debug\net8.0\SomaParams.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\bin\Debug\net8.0\SomaParams.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\bin\Debug\net8.0\SomaParams.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\refint\SomaParams.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\SomaParams.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\SomaParams\SomaParams\obj\Debug\net8.0\ref\SomaParams.dll
