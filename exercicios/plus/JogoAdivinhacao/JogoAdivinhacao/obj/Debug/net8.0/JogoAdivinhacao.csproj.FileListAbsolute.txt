@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\bin\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\refint\JogoAdivinhacao.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\JogoAdivinhacao\JogoAdivinhacao\obj\Debug\net8.0\ref\JogoAdivinhacao.dll

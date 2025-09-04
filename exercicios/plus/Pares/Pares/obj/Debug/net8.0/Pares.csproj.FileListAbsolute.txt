@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\bin\Debug\net8.0\Pares.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\bin\Debug\net8.0\Pares.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\bin\Debug\net8.0\Pares.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\bin\Debug\net8.0\Pares.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\bin\Debug\net8.0\Pares.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\refint\Pares.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\Pares.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\plus\Pares\Pares\obj\Debug\net8.0\ref\Pares.dll
