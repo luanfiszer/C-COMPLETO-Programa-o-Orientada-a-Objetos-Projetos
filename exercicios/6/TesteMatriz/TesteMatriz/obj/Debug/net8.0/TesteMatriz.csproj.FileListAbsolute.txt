@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\bin\Debug\net8.0\TesteMatriz.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\bin\Debug\net8.0\TesteMatriz.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\bin\Debug\net8.0\TesteMatriz.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\bin\Debug\net8.0\TesteMatriz.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\bin\Debug\net8.0\TesteMatriz.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\refint\TesteMatriz.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\TesteMatriz.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteMatriz\TesteMatriz\obj\Debug\net8.0\ref\TesteMatriz.dll
