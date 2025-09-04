@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\bin\Debug\net8.0\TesteLists.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\bin\Debug\net8.0\TesteLists.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\bin\Debug\net8.0\TesteLists.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\bin\Debug\net8.0\TesteLists.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\bin\Debug\net8.0\TesteLists.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\refint\TesteLists.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\TesteLists.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\TesteLists\TesteLists\obj\Debug\net8.0\ref\TesteLists.dll

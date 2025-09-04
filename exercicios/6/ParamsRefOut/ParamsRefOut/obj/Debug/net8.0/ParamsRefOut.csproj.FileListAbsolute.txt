@@ -1,0 +1,15 @@
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.exe
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.deps.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.runtimeconfig.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\bin\Debug\net8.0\ParamsRefOut.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.AssemblyInfoInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.AssemblyInfo.cs
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.csproj.CoreCompileInputs.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.sourcelink.json
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\refint\ParamsRefOut.dll
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.pdb
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ParamsRefOut.genruntimeconfig.cache
+C:\Users\luanb\OneDrive\Documentos\estudos programação\C-COMPLETO-Programa-o-Orientada-a-Objetos-Projetos\exercicios\6\ParamsRefOut\ParamsRefOut\obj\Debug\net8.0\ref\ParamsRefOut.dll
