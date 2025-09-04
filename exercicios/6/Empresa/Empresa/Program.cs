@@ -60,7 +60,7 @@ class Program
 
 
         Console.WriteLine("Update list od employees: ");
-        foreach (eMPLO obj in employee)
+        foreach (Employee obj in employee)
         {
             Console.WriteLine(obj);
         }
